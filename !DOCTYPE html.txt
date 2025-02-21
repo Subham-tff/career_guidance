@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Result</title>
+</head>
+<body>
+    <h1>Your Career Recommendation</h1>
+    <p>{{ recommendation }}</p>
+    <h2>Market Trends</h2>
+    <pre>{{ trends }}</pre>
+    <a href="/"><button>Home</button></a>
+</body>
+</html>
